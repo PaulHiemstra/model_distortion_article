@@ -1,3 +1,9 @@
+data/trained_distortion_guitar_lstm.wav
+data/distortion_guitar_large_sample.wav
+data/trained_distortion_guitar.wav
+data/untrained_distortion_guitar.wav
+
+
 .local
 .bash_history
 .jupyter/
